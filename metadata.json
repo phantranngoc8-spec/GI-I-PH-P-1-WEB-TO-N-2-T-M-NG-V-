@@ -1,0 +1,6 @@
+{
+  "name": "Toán Thông Minh 2.0 - Chặng 4: Vận Dụng",
+  "description": "Trò chơi học tập giải quyết tình huống gần gũi bằng phép cộng, phép trừ trong phạm vi 20 cho học sinh lớp 2 - Bộ sách Kết nối tri thức với cuộc sống",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
